@@ -88,7 +88,7 @@ Billiards Game is a billiards simulation game with 3 different game modes, each 
 ## 📁 Directory Structure
 
 ```
-game/
+Billiards-Game/
 │
 ├── game bi-a.py           # Main game file
 ├── level_manager.py       # Manages progression and level unlocking
