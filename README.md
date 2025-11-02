@@ -310,12 +310,9 @@ Developed by: [Nguyễn Văn Tung]
 Created: 2025
 
 ---
-
-**Enjoy playing! 🎱**
-
----
-[Watch my demo on youtube]
+## ▶️ Watch my demo on youtube
 
 https://youtu.be/2kxvMRTtWmQ
 
 ---
+**Enjoy playing! 🎱**
