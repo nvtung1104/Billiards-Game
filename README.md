@@ -305,7 +305,7 @@ This game is developed for educational and entertainment purposes.
 
 ## 👨‍💻 Author
 
-Developed by: [Author Name]
+Developed by: [Nguyễn Văn Tung]
 
 Created: 2024
 
